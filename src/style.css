@@ -1,0 +1,35 @@
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+.formDiv{
+  height: 500px;
+  width: 400px;
+  background-color: antiquewhite;
+  border-radius: 15px;
+
+}
+.heading{
+  text-align: center;
+  color: #bf5fe6;
+}
+.inp{
+  height: 37px;
+  width: 236px;
+  border: none;
+  border-radius: 10px;
+  margin-left: 80px;
+  margin-top: 15px;
+  text-align: center;
+}
+button{
+  height: 37px;
+  width: 200px;
+  border: none;
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-top: 15px;
+  background-color: #dcabf0;
+  cursor: pointer;
+}
